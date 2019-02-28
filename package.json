@@ -1,0 +1,23 @@
+{
+  "name": "node-todo",
+  "version": "1.0.0",
+  "description": "Firts full API training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/cortiz99/first-app-training-nodejs.git"
+  },
+  "keywords": [
+    "training",
+    "nodejs"
+  ],
+  "author": "Cruz Ortiz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://gitlab.com/cortiz99/first-app-training-nodejs/issues"
+  },
+  "homepage": "https://gitlab.com/cortiz99/first-app-training-nodejs#readme"
+}
