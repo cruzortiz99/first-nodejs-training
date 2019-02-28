@@ -1,0 +1,7 @@
+{
+  "database": {
+    "user": "cruz",
+    "password": "100392+cmo",
+    "uri": "nodetodo-shard-00-00-fgp2f.gcp.mongodb.net:27017,nodetodo-shard-00-01-fgp2f.gcp.mongodb.net:27017,nodetodo-shard-00-02-fgp2f.gcp.mongodb.net:27017/test?ssl=true&replicaSet=NodeTodo-shard-0&authSource=admin&retryWrites=true"
+  }
+}

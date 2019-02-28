@@ -4,6 +4,8 @@
   "description": "Firts full API training project",
   "main": "index.js",
   "scripts": {
+    "start": "dev",
+    "dev": "nodemon index.js",
     "test": "test"
   },
   "repository": {
@@ -19,5 +21,11 @@
   "bugs": {
     "url": "https://gitlab.com/cortiz99/first-app-training-nodejs/issues"
   },
-  "homepage": "https://gitlab.com/cortiz99/first-app-training-nodejs#readme"
+  "homepage": "https://gitlab.com/cortiz99/first-app-training-nodejs#readme",
+  "devDependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16",
+    "nodemon": "^1.18.10"
+  }
 }
