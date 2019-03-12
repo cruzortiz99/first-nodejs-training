@@ -4,7 +4,7 @@
   "description": "Firts full API training project",
   "main": "index.js",
   "scripts": {
-    "start": "dev",
+    "start": "npm run dev",
     "dev": "nodemon index.js",
     "test": "test"
   },
